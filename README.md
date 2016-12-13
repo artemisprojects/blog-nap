@@ -2,7 +2,7 @@
 
 ## 环境准备
 
-[blog-nap 网站](http://nap-blog.artemisprojects.org) 由[hexo](http://hexo.io) 生成，请使用`npm install hexo-cli -g`命令安装hexo环境（npm的安装可使用brew，brew的安装请自行解决）
+[blog-nap 网站](http://blog.nxap.org) 由[hexo](http://hexo.io) 生成，请使用`npm install hexo-cli -g`命令安装hexo环境
 
 ## 从github获取既有代码
 
@@ -16,7 +16,7 @@
 
 ## 添加、修改内容
 
-使用`hexo new "article title"` 创建新文章或编辑source\\\_posts\目录下已有md文件修改既有文章内容
+使用`hexo new "article title"` 创建新文章或编辑`source\_posts\`目录下已有markdown文件修改已有文章的内容
 
 ## 发布内容
 
@@ -25,6 +25,4 @@
 ## 提交更新内容
 
 按git流程提交对blog-nap的hexo内容所做修改（`git add .` -> `git commit -a` -> `git push origin master`）。
-然后执行`hexo d -g`，hexo由markdown文件生成静态html页，并将其push到`gh-pages`分支上去。
-
-在此之前，当然你需要授权，请联系 [hub@artemisprojects.org](mailto:hub@artemisprojects.org)。
+然后执行`hexo d -g`，hexo根据markdown文件生成静态html页，并将其push到`gh-pages`分支上去。

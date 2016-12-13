@@ -32,9 +32,8 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
 
 links:
   - title: Bookshelf
-    url: http://nap-blog.artemisprojects.org/2015-10-books/
-#  - title: Artemis Projects
-#    url: http://artemisprojects.org/
+    url: http://blog.nxap.org/2015-10-books/
+
 #  - title: Nanjing Univ.
 #    url: http://www.nju.edu.cn/
 #  - title: Chun CAO
