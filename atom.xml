@@ -1497,9 +1497,9 @@
     <link href="http://nap-blog.artemisprojects.org/2015-10-books/"/>
     <id>http://nap-blog.artemisprojects.org/2015-10-books/</id>
     <published>2015-10-20T16:00:00.000Z</published>
-    <updated>2016-09-13T03:25:51.795Z</updated>
+    <updated>2016-12-15T10:19:27.318Z</updated>
     
-    <content type="html"><![CDATA[<p> 汇总大家共享的书籍，欢迎组员之间互相借阅。<br>2016-9-15 更新。</p>
+    <content type="html"><![CDATA[<p> 汇总大家共享的书籍，欢迎组员之间互相借阅。<br>2016-12-15 更新。</p>
 <a id="more"></a>
 <hr>
 <ul>
@@ -1519,8 +1519,63 @@
 </thead>
 <tbody>
 <tr>
+<td>104</td>
+<td> 深入理解计算机系统 (第 3 版)</td>
+<td>Ying ZHANG</td>
+</tr>
+<tr>
+<td>104</td>
+<td>SRE:Google 运维解密 </td>
+<td>Ying ZHANG</td>
+</tr>
+<tr>
+<td>104</td>
+<td> 模型检测 </td>
+<td>Ying ZHANG</td>
+</tr>
+<tr>
+<td>104</td>
+<td> 并行计算：结构算法编程 </td>
+<td>Ying ZHANG</td>
+</tr>
+<tr>
+<td>104</td>
+<td> 多核多线程技术 </td>
+<td>Ying ZHANG</td>
+</tr>
+<tr>
+<td>103</td>
+<td> 摄影笔记 </td>
+<td>Shuo CHENG</td>
+</tr>
+<tr>
+<td>102</td>
+<td>Java 编程思想 </td>
+<td>Shuo CHENG</td>
+</tr>
+<tr>
+<td>101</td>
+<td> 大话数据结构 </td>
+<td>Shuo CHENG</td>
+</tr>
+<tr>
+<td>100</td>
+<td>C++ Primer</td>
+<td>Shuo CHENG</td>
+</tr>
+<tr>
+<td>99</td>
+<td>Docker 生产环境实战 </td>
+<td>Zhongliang YUAN</td>
+</tr>
+<tr>
+<td>98</td>
+<td>Python Web 开发实战 </td>
+<td>Weiyi WANG</td>
+</tr>
+<tr>
 <td>97</td>
-<td> 计算机体系结构: 量化研究方法: 第 5 版 </td>
+<td> 计算机体系结构: 量化研究方法 (第 5 版)</td>
 <td>Ying ZHANG</td>
 </tr>
 <tr>
@@ -2009,7 +2064,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;汇总大家共享的书籍，欢迎组员之间互相借阅。&lt;br&gt;2016-9-15更新。&lt;/p&gt;
+      &lt;p&gt;汇总大家共享的书籍，欢迎组员之间互相借阅。&lt;br&gt;2016-12-15更新。&lt;/p&gt;
     
     </summary>
     
