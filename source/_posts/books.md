@@ -5,7 +5,7 @@ tags:
 author: nap
 ---
 汇总大家共享的书籍，欢迎组员之间互相借阅。
-2016-9-15更新。
+2016-12-15更新。
 
 <!--more-->
 
@@ -20,7 +20,18 @@ author: nap
 
 |序号| 书名                                                 | 保管者          |
 |----|------------------------------------------------------|-----------------|
-| 97 | 计算机体系结构:量化研究方法:第5版                    | Ying ZHANG      |
+| 104 | 深入理解计算机系统(第3版)                           | Ying ZHANG      |
+| 104 | SRE:Google运维解密                                  | Ying ZHANG      |
+| 104 | 模型检测                                            | Ying ZHANG      |
+| 104 | 并行计算：结构算法编程                              | Ying ZHANG      |
+| 104 | 多核多线程技术                                      | Ying ZHANG      |
+| 103 | 摄影笔记                                            | Shuo CHENG      |
+| 102 | Java编程思想                                        | Shuo CHENG      |
+| 101 | 大话数据结构                                        | Shuo CHENG      |
+| 100 | C++ Primer                                          | Shuo CHENG      |
+| 99 | Docker生产环境实战                                   | Zhongliang YUAN |
+| 98 | Python Web 开发实战                                  | Weiyi WANG      |
+| 97 | 计算机体系结构:量化研究方法(第5版)                   | Ying ZHANG      |
 | 96 | 程序员面试宝典                                       | Ziling LU       |
 | 95 | 剑指offer                                            | Ziling LU       |
 | 94 | 逻辑学导论                                           | Yiqun WANG      |
