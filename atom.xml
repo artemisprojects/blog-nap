@@ -1497,7 +1497,7 @@
     <link href="http://nap-blog.artemisprojects.org/2015-10-books/"/>
     <id>http://nap-blog.artemisprojects.org/2015-10-books/</id>
     <published>2015-10-20T16:00:00.000Z</published>
-    <updated>2016-12-15T10:19:27.318Z</updated>
+    <updated>2016-12-20T02:48:11.136Z</updated>
     
     <content type="html"><![CDATA[<p> 汇总大家共享的书籍，欢迎组员之间互相借阅。<br>2016-12-15 更新。</p>
 <a id="more"></a>
@@ -1518,6 +1518,16 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>106</td>
+<td>Kubernetes 权威指南 (第 2 版)</td>
+<td>Ying ZHANG</td>
+</tr>
+<tr>
+<td>105</td>
+<td>Docker — 容器与容器云 (第 2 版)</td>
+<td>Ying ZHANG</td>
+</tr>
 <tr>
 <td>104</td>
 <td> 深入理解计算机系统 (第 3 版)</td>
